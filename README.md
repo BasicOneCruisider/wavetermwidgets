@@ -1,68 +1,68 @@
-# 🎉 Configuration de Terminals et Liens Utiles pour WaveTerminal 🌊
+# 🎉 Terminal and Useful Links Configuration for WaveTerminal 🌊
 
-Bienvenue dans la configuration qui va égayer votre expérience avec **WaveTerminal** ! 🎈 Ce fichier JSON est votre passeport pour explorer une variété de terminaux et de liens utiles. Accédez facilement à vos shells de commande préférés et à des ressources en ligne, tout en ajoutant un peu de piquant à votre environnement de travail !
+Welcome to the configuration that will brighten your experience with **WaveTerminal**! 🎈 This JSON file is your passport to explore a variety of terminals and useful links. Easily access your favorite command shells and online resources, all while adding a bit of spice to your workspace!
 
-## 🛠️ Structure du Fichier
+## 🛠️ Structure of the File
 
-Ce fichier est comme une boîte à outils magique 🧰, contenant des sections distinctes pour chaque terminal et lien, chacune identifiable par une clé unique. Voici un aperçu des sections incluses :
+This file is like a magic toolbox 🧰, containing distinct sections for each terminal and link, each identifiable by a unique key. Here’s an overview of the included sections:
 
-### 1. Terminal : Command Prompt (`cmd`) 💻
+### 1. Terminal: Command Prompt (`cmd`) 💻
 
-- **Clé** : `cmd`
-- **Icône** : `rectangle-terminal`
-- **Couleur** : `#fc8803`
-- **Label** : `cmd`
-- **Type** : Terminal
-- **Chemin d'accès** : Utilise l'application Command Prompt de Windows pour exécuter toutes vos commandes en un clin d'œil ! ✨
+- **Key**: `cmd`
+- **Icon**: `rectangle-terminal`
+- **Color**: `#fc8803`
+- **Label**: `cmd`
+- **Type**: Terminal
+- **Path**: Uses the Windows Command Prompt application to execute all your commands in a flash! ✨
 
-### 2. Terminal : PowerShell Core (`pwsh`) ⚡
+### 2. Terminal: PowerShell Core (`pwsh`) ⚡
 
-- **Clé** : `pwsh`
-- **Icône** : `rectangle-terminal`
-- **Couleur** : `#03fc49`
-- **Label** : `pwsh`
-- **Type** : Terminal
-- **Chemin d'accès** : Utilise PowerShell Core pour des scripts puissants et des fonctionnalités modernes qui vont vous impressionner ! 🚀
+- **Key**: `pwsh`
+- **Icon**: `rectangle-terminal`
+- **Color**: `#03fc49`
+- **Label**: `pwsh`
+- **Type**: Terminal
+- **Path**: Uses PowerShell Core for powerful scripts and modern features that will amaze you! 🚀
 
-### 3. Lien vers YouTube 📺
+### 3. Link to YouTube 📺
 
-- **Clé** : `youtube`
-- **Icône** : `play`
-- **Label** : `youtube`
-- **Couleur** : `red`
-- **Type** : Web
-- **URL** : [YouTube](https://www.youtube.com/feed/subscriptions)
-- **Pinned URL** : Plongez directement dans vos abonnements YouTube et laissez-vous emporter par des vidéos captivantes ! 🎥💖
+- **Key**: `youtube`
+- **Icon**: `play`
+- **Label**: `youtube`
+- **Color**: `red`
+- **Type**: Web
+- **URL**: [YouTube](https://www.youtube.com/feed/subscriptions)
+- **Pinned URL**: Dive straight into your YouTube subscriptions and get swept away by captivating videos! 🎥💖
 
-### 4. Lien vers GitHub 🐙
+### 4. Link to GitHub 🐙
 
-- **Clé** : `github`
-- **Icône** : `brands@github`
-- **Label** : `github`
-- **Type** : Web
-- **URL** : [GitHub](https://github.com)
-- **Pinned URL** : Connectez-vous à GitHub pour plonger dans le monde magnifique du développement collaboratif ! 🌍👩‍💻👨‍💻
+- **Key**: `github`
+- **Icon**: `brands@github`
+- **Label**: `github`
+- **Type**: Web
+- **URL**: [GitHub](https://github.com)
+- **Pinned URL**: Connect to GitHub to plunge into the wonderful world of collaborative development! 🌍👩‍💻👨‍💻
 
-### 5. Terminal : Windows PowerShell 🪄
+### 5. Terminal: Windows PowerShell 🪄
 
-- **Clé** : `windows-powershell`
-- **Icône** : `rectangle-terminal`
-- **Couleur** : `#0078d7`
-- **Label** : `Windows PowerShell`
-- **Type** : Terminal
-- **Chemin d'accès** : Utilisez Windows PowerShell pour faire des merveilles avec vos commandes Windows ! 🧙‍♂️✨
+- **Key**: `windows-powershell`
+- **Icon**: `rectangle-terminal`
+- **Color**: `#0078d7`
+- **Label**: `Windows PowerShell`
+- **Type**: Terminal
+- **Path**: Uses Windows PowerShell to work wonders with your Windows commands! 🧙‍♂️✨
 
-## 🚀 Utilisation
+## 🚀 Usage
 
-Ce fichier est votre allié dans **WaveTerminal** ! 🎉 Il vous permet de naviguer rapidement entre différents environnements de commande et ressources web. Chaque entrée est prête à être personnalisée, vous permettant d'ajouter votre propre touche !
+This file is your ally in **WaveTerminal**! 🎉 It allows you to quickly navigate between different command environments and web resources. Each entry is ready to be customized, letting you add your own flair!
 
-## 🎨 Personnalisation
+## 🎨 Customization
 
-1. Pour ajouter un nouveau terminal ou un lien, créez une nouvelle clé unique et suivez le format des autres entrées. Soyez créatif ! 🎨✨
-2. Assurez-vous que les icônes, couleurs et chemins d'accès sont corrects et que tout fonctionne comme un charme dans **WaveTerminal**.
+1. To add a new terminal or link, create a new unique key and follow the format of the other entries. Get creative! 🎨✨
+2. Ensure that the icons, colors, and paths are correct, and everything works like a charm in **WaveTerminal**.
 
 ## 🌈 Conclusion
 
-Plongez dans cette configuration qui vise à rendre votre expérience avec **WaveTerminal** encore plus agréable et productive ! 💪 N'hésitez pas à personnaliser ce fichier pour qu'il corresponde parfaitement à vos besoins et amusez-vous en cours de route ! 🎉🌟
+Dive into this configuration aimed at making your experience with **WaveTerminal** even more enjoyable and productive! 💪 Feel free to customize this file to perfectly match your needs and have fun along the way! 🎉🌟
 
-Profitez de votre aventure dans le terminal ! 🎊
+Enjoy your terminal adventure! 🎊
