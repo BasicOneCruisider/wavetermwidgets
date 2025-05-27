@@ -1,0 +1,63 @@
+{
+    "cmd": {
+        "icon": "rectangle-terminal",
+        "color": "#fc8803",
+        "label": "cmd",
+        "blockdef": {
+            "meta": {
+                "view": "term",
+                "controller": "shell",
+                "term:localshellpath": "cmd"
+            }
+        }
+    },
+    "pwsh": {
+        "icon": "rectangle-terminal",
+        "color": "#03fc49",
+        "label": "pwsh",
+        "blockdef": {
+            "meta": {
+                "view": "term",
+                "controller": "shell",
+                "term:localshellpath": "pwsh"
+            }
+        }
+    },
+   "youtube" : {
+        "icon": "play",
+        "label": "youtube",
+        "color": "red",
+        "blockdef": {
+            "meta": {
+                "view": "web",
+                "url": "https://www.youtube.com/feed/subscriptions",
+                "pinnedurl": "https://www.youtube.com/feed/subscriptions"
+            }
+        }
+    },
+    "github" : {
+        "icon": "brands@github",
+        "label": "github",
+        "blockdef": {
+            "meta": {
+                "view": "web",
+                "url": "https://github.com",
+                "pinnedurl": "https://google.com"
+            }
+        }
+    },
+    
+
+    "WINDOWS": {
+        "icon": "rectangle-terminal",
+        "color": "#0078d7",  
+        "label": "Windows PowerShell",
+        "blockdef": {
+            "meta": {
+                "view": "term",
+                "controller": "shell",
+                "term:localshellpath": "C:\\Windows\\System32\\WindowsPowerShell\\v1.0\\powershell.exe"
+            }
+        }
+    }
+}
